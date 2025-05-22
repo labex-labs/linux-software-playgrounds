@@ -1,6 +1,6 @@
 # Linux Software Playgrounds
 
-[![Linux Software Playgrounds](https://cover-creator.appbot.io/linux-software-playgrounds.png)](https://labex.io/courses/linux-software-playgrounds)
+[![Linux Software Playgrounds](https://cover-creator.labex.io/linux-software-playgrounds.png)](https://labex.io/courses/linux-software-playgrounds)
 
 [![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/linux-software-playgrounds)
 
@@ -15,7 +15,7 @@ LabEx is an interactive, hands-on learning platform dedicated to coding and tech
 
 ![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
 
-- A strict “Learn by Doing” approach with exclusive hands-on labs and no videos.
+- A strict "Learn by Doing" approach with exclusive hands-on labs and no videos.
 - Interactive online environments within the browser, with automated step-by-step checks.
 - A structured content organization with the Skill Tree based learning system.
 - A growing learning resource of 30 Skill Trees and over 6,000 Labs.
@@ -25,14 +25,14 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                          | Difficulty   | Practice                                                                                                                    |
-|---------|-----------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                           | Difficulty   | Practice                                                                                                                    |
+|---------|------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------|
 |      01 | 📖 Exploring File Systems with Eza             | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-exploring-file-systems-with-eza-295948'>Start Lab</a>             |
 |      02 | 📖 Fast Searching with Ripgrep                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-fast-searching-with-ripgrep-384504'>Start Lab</a>                 |
 |      03 | 📖 Explore Disk Usage with Ncdu                | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-explore-disk-usage-with-ncdu-296141'>Start Lab</a>                |
 |      04 | 📖 Visualize File Differences with Icdiff      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-visualize-file-differences-with-icdiff-272381'>Start Lab</a>      |
 |      05 | 📖 Monitor System Resources with Glances       | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-monitor-system-resources-with-glances-384503'>Start Lab</a>       |
-|      06 | 📖 Interactive Process Viewer with Htop        | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/linux-interactive-process-viewer-with-htop-271667'>Start Lab</a>        |
+|      06 | 📖 Interactive Process Viewer with Htop        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-interactive-process-viewer-with-htop-271667'>Start Lab</a>        |
 |      07 | 📖 Manage Multiple Terminals with Screen       | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-manage-multiple-terminals-with-screen-271827'>Start Lab</a>       |
 |      08 | 📖 JSON Data Processing with jq                | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-json-data-processing-with-jq-279945'>Start Lab</a>                |
 |      09 | 📖 Enhance Copying and Moving with Advcpmv     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-enhance-copying-and-moving-with-advcpmv-295937'>Start Lab</a>     |

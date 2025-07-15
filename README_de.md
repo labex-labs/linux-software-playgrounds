@@ -13,6 +13,25 @@ Entdecken und beherrschen Sie eine Vielzahl leistungsstarker Linux-Softwaretools
 ![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux)
 
 
+## Übungen
+
+|   Index | Name                                                        | Schwierigkeit   | Übung                                                                                                                              |
+|---------|-------------------------------------------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 🟢 Entdecken von Dateisystemen mit Eza                   | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-exploring-file-systems-with-eza-295948'>Labor Starten</a>             |
+|      02 | 📖 🟢 Schnelle Suche mit Ripgrep                            | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-fast-searching-with-ripgrep-384504'>Labor Starten</a>                 |
+|      03 | 📖 🟢 Entdecken Sie die Speicherplatznutzung mit Ncdu       | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-explore-disk-usage-with-ncdu-296141'>Labor Starten</a>                |
+|      04 | 📖 🟢 Visualisieren Sie Dateiunterschiede mit Icdiff        | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-visualize-file-differences-with-icdiff-272381'>Labor Starten</a>      |
+|      05 | 📖 🟢 Systemressourcen mit Glances überwachen               | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-monitor-system-resources-with-glances-384503'>Labor Starten</a>       |
+|      06 | 📖 🔵 Interaktiver Prozessanzeiger mit htop                 | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-interactive-process-viewer-with-htop-271667'>Labor Starten</a>        |
+|      07 | 📖 🟢 Verwalten Sie mehrere Terminals mit Screen            | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-manage-multiple-terminals-with-screen-271827'>Labor Starten</a>       |
+|      08 | 📖 🟢 JSON-Datenverarbeitung mit jq                         | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-json-data-processing-with-jq-279945'>Labor Starten</a>                |
+|      09 | 📖 🟢 Kopieren und Verschieben mit Advcpmv verbessern       | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-enhance-copying-and-moving-with-advcpmv-295937'>Labor Starten</a>     |
+|      10 | 📖 🟢 Visualisierung der Dateistruktur mit Tre              | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-file-structure-visualization-with-tre-384505'>Labor Starten</a>       |
+|      11 | 📖 🟢 Zählen von Codezeilen mit CLOC                        | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-count-lines-of-code-with-cloc-273383'>Labor Starten</a>               |
+|      12 | 📖 🔵 Zeigen Sie Betriebssysteminformationen stilvoll mi... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-display-os-info-stylishly-with-neofetch-299825'>Labor Starten</a>     |
+|      13 | 📖 🟢 Hervorragenden Terminal-Text mit FIGlet gestalten     | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-crafting-striking-terminal-text-with-figlet-272383'>Labor Starten</a> |
+|      14 | 📖 🟢 Mediendateien mit Whisper in Text transkribieren      | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-transcribe-media-to-text-with-whisper-289658'>Labor Starten</a>       |
+
 ## Umgebung
 
 LabEx ist eine interaktive, praktische Lernplattform für Programmierung und Technologie. Sie kombiniert Labore, KI-Unterstützung und virtuelle Maschinen für eine videofreie, praktische Lernerfahrung.
@@ -23,29 +42,9 @@ LabEx ist eine interaktive, praktische Lernplattform für Programmierung und Tec
 - Interaktive Online-Umgebungen im Browser mit automatisierten Schritt-für-Schritt-Überprüfungen.
 - Eine strukturierte Inhaltsorganisation mit dem Skill-Tree-basierten System.
 - Eine wachsende Lernressource von 30 Skill Trees und über 6.000 Laboren.
-- Der KI-Lernassistent Labby, aufgebaut auf ChatGPT, bietet eine konversationelle Lernerfahrung.
+- Der Lernassistent Labby, aufgebaut auf den neuesten KI-Modellen, bietet eine konversationelle Lernerfahrung.
 
 Erfahren Sie mehr über [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## Übungen
-
-|   Index | Name                                                     | Schwierigkeit   | Übung                                                                                                                              |
-|---------|----------------------------------------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Entdecken von Dateisystemen mit Eza                   | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-exploring-file-systems-with-eza-295948'>Labor Starten</a>             |
-|      02 | 📖 Schnelle Suche mit Ripgrep                            | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-fast-searching-with-ripgrep-384504'>Labor Starten</a>                 |
-|      03 | 📖 Entdecken Sie die Speicherplatznutzung mit Ncdu       | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-explore-disk-usage-with-ncdu-296141'>Labor Starten</a>                |
-|      04 | 📖 Visualisieren Sie Dateiunterschiede mit Icdiff        | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-visualize-file-differences-with-icdiff-272381'>Labor Starten</a>      |
-|      05 | 📖 Systemressourcen mit Glances überwachen               | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-monitor-system-resources-with-glances-384503'>Labor Starten</a>       |
-|      06 | 📖 Interaktiver Prozessanzeiger mit htop                 | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-interactive-process-viewer-with-htop-271667'>Labor Starten</a>        |
-|      07 | 📖 Verwalten Sie mehrere Terminals mit Screen            | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-manage-multiple-terminals-with-screen-271827'>Labor Starten</a>       |
-|      08 | 📖 JSON-Datenverarbeitung mit jq                         | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-json-data-processing-with-jq-279945'>Labor Starten</a>                |
-|      09 | 📖 Kopieren und Verschieben mit Advcpmv verbessern       | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-enhance-copying-and-moving-with-advcpmv-295937'>Labor Starten</a>     |
-|      10 | 📖 Visualisierung der Dateistruktur mit Tre              | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-file-structure-visualization-with-tre-384505'>Labor Starten</a>       |
-|      11 | 📖 Zählen von Codezeilen mit CLOC                        | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-count-lines-of-code-with-cloc-273383'>Labor Starten</a>               |
-|      12 | 📖 Zeigen Sie Betriebssysteminformationen stilvoll mi... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-display-os-info-stylishly-with-neofetch-299825'>Labor Starten</a>     |
-|      13 | 📖 Hervorragenden Terminal-Text mit FIGlet gestalten     | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-crafting-striking-terminal-text-with-figlet-272383'>Labor Starten</a> |
-|      14 | 📖 Mediendateien mit You-Get herunterladen               | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-download-media-with-you-get-289657'>Labor Starten</a>                 |
-|      15 | 📖 Mediendateien mit Whisper in Text transkribieren      | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-transcribe-media-to-text-with-whisper-289658'>Labor Starten</a>       |
 
 ## Mehr
 
